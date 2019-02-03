@@ -1,0 +1,229 @@
+head{
+background-color: #F6E3CE;
+
+}
+
+/***********IS.A LOGO Style******************/
+#zero{
+color:#0404B4;
+            font-size:40pt;
+
+
+                            }
+
+/*************** LOGO Name***********************/
+.p0{
+font-size:20pt;
+           color: #4C0B5F;
+           float: left;
+           margin: 5px ;
+                               }
+
+       /**********************************************/
+  /*    .logo {
+padding-bottom: 50px;
+        float: left;
+        width: 150px;
+        height: auto;
+
+       }
+
+*/
+/*******************body****************************/
+body{
+                background-color:#F2F2F2;
+padding: 10px;
+            margin: 150,50,50,50;
+ color: #380B61;
+                            /*border-right: 50px;*/
+                    
+position:center;
+
+                               
+                                                                        }
+
+/********Dev1 include Two button of login Facebook&twitter*******/
+
+#d1{
+text-align: center;
+	color:#0B614B;
+	        border-color:#0B614B;
+	                     border-width: 50%;
+	padding: 10px;
+	              margin: auto;
+                                    padding-top: 20px;
+border-style: double;
+                                             text-align: center;
+                        border-color: black;
+          width: 550pt;
+                                      border-top-color: #610B21;
+           border-right-color: #1B0A2A;
+border-left-color: #2A0A29;
+                                                                      }
+
+
+
+/****************************************LogIn with Facebook**********************************/
+#b1{
+color:black;
+/*border-color: #2E2E2E;*/
+                  text-align: center;
+                                  width: 230pt;
+                                          height: 30pt;
+                                                  font-style: all;
+
+                                                        font-size: 15pt;
+                                            text-align: center;
+                         background-color:#3A01DF;
+           border-style: outset;
+border-width: 3px;
+border-color: #0B0B3B;
+}
+
+/****************************************LogIn with Twitter***************************************/
+#b2{
+background-color: #58ACFA;
+	                    width: 250pt;
+                                  height: 30pt;
+                                      border-color:#5F04B4;
+                                                   color: #2A0A29;	
+                                       text-align: center;
+                               font-style: all;
+                    font-size: 15pt;
+border-style: outset;
+                          border-width:3px;
+                                                                       }
+
+/*******************OR *********************/
+
+.p1{
+	               color:black;
+	font-family:arial ;
+                        font-size: 18pt;
+text-align: center;
+
+                                                          }
+/*****label include Kept sign in and forget password********************/
+
+label{
+color:#0A0A2A ;
+        text-shadow: #380B61;
+        font-size:14pt;
+
+                                                     }
+
+/******************************link hover******************************/
+
+a.hover{
+color: #0B614B;
+           text-align: center;
+
+
+                                                }
+
+/**********link ************/
+a{
+color: #0B3B39;
+               font-size:14pt;
+                           }
+
+/************dev2....username/password***********************/
+
+#d2{
+size: 70pt;
+       text-align: center;
+                              }
+
+/*******************username**************************************/
+#t1{
+
+text-align: center;
+          	font-size:14pt;
+	                border-color:#DF013A;
+                                  border-width:5px;
+
+                                                        }
+
+/*************************password************************/
+#pas1{
+border-width: 5px;
+	       text-align: center;
+	                   font-size:14pt;
+	                        border-color:#DF013A;
+                                                      }
+/***************button login*****************/
+#b3{
+width: 100pt;
+      height: 30pt;
+              border-color:#0A2A22;
+                           color:#071910;	
+                                      text-align: center;
+                         font-style: all;
+                 font-size: 15pt;
+background-color:#088A4B;
+                                border-style: outset;
+                    border-width:4px;
+                                                        }
+
+/***********Not A member /sing up know***********/
+.p2{
+font-style: unset;
+                    font-size:14pt;
+          color:#070B19 ;
+
+
+
+                                                        }
+
+/*******************footer******************/
+footer{
+color:#0A122A ;
+text-align: center;
+background-color:#D8F6CE;
+padding-top:10px ;
+
+                              }
+
+/***************Image Facebook********************/
+.img1{
+text-align: left;
+          }                     
+
+          form{
+align-content: center;
+
+
+
+
+          }
+
+
+/****************************************************/
+.main{
+
+  display: inline;
+}
+.main li a {
+  float: left;
+border: black solid 1px; 
+font-size:16pt;
+font-family: fantasy;
+padding: 5px,20px;
+text-decoration: none;
+
+}
+
+ul li {
+
+  padding: 7px;
+  margin: 5px;
+float: right;
+padding-top: 0px;
+text-decoration: none;
+}
+ .home_menu li  a:hover{
+border: red solid 1px;
+  
+}
+
+/*******************END*****************************/
